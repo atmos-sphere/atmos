@@ -23,7 +23,8 @@ Features:
   etc.
 - Auto-sphere: select a theme and get a randomized unique sphere with music
   playlist and background stream to suite that theme.
-- Later on: voice chat support, video chat support, forgo the background image and watch a movie with friends (great during covid).
+- Later on: voice chat support, video chat support, forgo the background image
+  and watch a movie with friends (great during covid).
 - Later on: connect your sphere to another sphere, creating an icon or button in
   your chat room that people can click to jump into another Sphere.
 - Very basic and easy to use video customization such as converting the stream
