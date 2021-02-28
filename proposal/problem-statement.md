@@ -1,5 +1,7 @@
 # Justin Loh
 
+<!-- TODO: The below paragraph makes unreferenced claims. Citation needed. -->
+
 As mental health issues spark from the increasing isolation conditions brought
 by COVID-19, suicide rates have spiraled as people derived of their basic social
 needs find it difficult to cope with the crushing loneliness, coupled with the
