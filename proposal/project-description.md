@@ -19,6 +19,11 @@ offering basic video editing functions and certain video customization features
 such as adding different ambient filters or borders, allowing the user to
 produce a looping animated background to suit their desires.
 
+A sphere can be interconnected with a series of different spheres, allowing
+spheres of simmilar / relevant themes to exist in close proximity to each other.
+Relevant or nearby spheres can appear in as recommedations when in a user sphere,
+and are availanle to be visited easily in a graph-node style navigation.
+
 If a user does not wish to go through the process of customizing a sphere and
 only wishes to quickly create a session, a “Quick Start” feature will enable a
 user to generate a randomized sphere with relevant music genres and themes,
