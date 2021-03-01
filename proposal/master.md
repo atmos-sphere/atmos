@@ -22,13 +22,46 @@ beings, humanity’s need for basic human interaction grows exponentially as
 people spend increasing amounts of time in isolation and loneliness. A need
 which if suppressed, may lead to a steady decline in mental health.
 
+## Related Work
+
+In Debra Umberson studies, it was demonstrated that socializing and human health
+have a strong correlation and that interactions with others have positive
+benefits on mental health.<sup>[[2]]</sup> We are fortunate enough to have multitudes of
+applications that allow interactions remotely where people can interact with
+their loved ones across the globe.
+
+As of 2021, the leaders in social messaging, voice and video interaction are
+WhatsApp, Facebook Messenger, WeChat, Telegram, Snapchat, discord,
+etc.<sup>[[3]] [[4]]</sup> Among all these choices the users intuitively make
+selections based on their pros and cons of application usability.
+
+Most of the applications mentioned above allow users to create group chats where
+the members can communicate via text, voice messages or/and video, but none of
+these let the users create their personalized environment. An example of a
+personalized environment is having a group chat with animated wallpapers and
+personalized themes and having background music while being in the group chat.
+Whatsapp provides a feature similar to this however, only static images can be
+selected as a background picture, Discord has an addition to this feature where
+,by using extensions, a user can add a GIF as background for the chat. This is
+not included in the default version of the application. Note that none of the
+applications mentioned allow the option of adding a live wallpaper as a
+background in the chats.
+
+Atmos-Sphere has many music streaming applications and that makes the whole
+difference. The industry leaders such as Spotify, Apple Music, amazon music,
+Tencent, YouTube music,etc. All the music streaming applications allow users to
+create, edit and delete playlist and most of the apps comes with a variety of
+default playlist. None of the social networking application integrate any of the
+music streaming applications on their platform, therefore, the user can’t have a
+group chat while listening to music ,from any of the mentioned applications.
+
 ## Problem Statement
 
 Based on an [article][1] regarding suicide risk and prevention during the
-pandemic , suicide rates during the covid 19 pandemic are expected to rise due
+pandemic, suicide rates during the covid 19 pandemic are expected to rise due
 to a decline in mental health cause by fear, self-isolation, and physical
 distancing , leading to mental illnesses such as depression, anxiety, and
-post-traumatic stress disorder(PTSD).
+post-traumatic stress disorder(PTSD).<sup>[[1]]</sup>
 
 An application for social interactions in a virtual platform may prove
 imperative in improving mental health for its users in not just during the
@@ -39,7 +72,13 @@ interaction.
 
 ## Hypothesis
 
-asd
+To investigate the impact of Atmos-Sphere on users mental health and wellbeing,
+the Atmos team has engineered a solution to gather data in order to prove its
+impact on users daily life. The team hypothesise that the driven music and
+background animations will stimulate users brains positively and improves their
+general mood based on colors and sound frequencies. Moreover, the live chat will
+bring a remarkable support for users to release and outsource their accumulated
+daily stress.
 
 ## Project Description
 
@@ -93,20 +132,69 @@ similar to that of a social media platform.
 
 ## System Design
 
+### Mechanics and Design Philosophy
+
+The goal of ATMOS is to be ***atmospheric***.
+
+ATMOS will be designed from the ground up to support both long-lived and
+short-lived chat room sessions ("Spheres"). Spheres are bound to an owner, who
+is the user that created the Sphere. Any number of users can be invited to join
+a Sphere and become a member of the chat room. The owner of a sphere has full
+admin privileges over his/her Sphere, but may designate another member of the
+Sphere as an admin, granting them extra rights to manage the Sphere.
+
+There are 3 central gimicks that make a Sphere unique:
+
+1. Music
+    - Each sphere has it's own music.
+    - A Sphere admin can manage the music component of a Sphere, adding new
+      soundtracks, looping over of a track, connecting to an external
+      third-party music service such as Spotify or Apple Music, and more.
+
+2. Environment
+    - Sphere's also have an environment.
+    - The environment mainly consists of the background imagery and chat room
+      decorations.
+    - Environment can also be extended, for more advanced client apps, to
+      included any visual or auditory imagery such as a VR environment.
+
+3. Users
+    - The members of the Sphere are the most unique part!
+
+As a social media platform, ATMOS provides more than just an *atmospheric* vibe.
+
+### System Architecure
+
 The ATMOS architecture is composed of two parts:
 
-1. Core API
+1. ATMOS Core
 2. Client Apps
 
-The Core API of ATMOS encompasses all the web services for the ATMOS
-organization and all the publicly exposed APIs, including the RESTful, GraphQL,
-and WebSockets APIs exposed by the core ATMOS services.
+#### ATMOS Core
 
-The second part of the ATMOS system are the client apps. The offical ATMOS
-client will be a JavaScript desktop and browser client application, written
-using the React framework along with the Material-UI library.
+The ATMOS Core represents the core API of ATMOS, encompassing all the web
+services for the ATMOS organization and all the publicly exposed APIs, including
+the RESTful, GraphQL, and WebSockets APIs exposed by the core ATMOS services.
 
+***APIs Targeted:***
 
+- REST
+- GraphQL
+- WebSockets
+
+#### Client Applications
+
+***Platforms Targeted:***
+
+- Web
+- Desktop
+- Mobile
+
+***Tech Stack:***
+
+- ReactJS: JavaScript framework for making
+  - React-Native for the mobile app
+- Material-UI: provides base React components from which to build the app
 
 ## Study Design
 
@@ -125,16 +213,6 @@ order to determine their mental state, and each given a _happiness level_ based
 on their results.
 
 The 7 groups will have the following activities they will be a part of:
-<!--
-- **Group A:** View only the animated background.
-- **Group B:** Listen only the _chill beats_ or curated playlist.
-- **Group C:** Participate only in the chat along with other users in the group.
-- **Group D:** Listen to music, as well as view the animated background.
-- **Group E:** View only the animated background, as well as participate in the
-  chat.
-- **Group F:** Listen to the music, and participate in the chat.
-- **Group G:** Listen to the music, participate in the chat as well as view the
-  animated background. -->
 
 |         | Animated Background | Chill Beats | Live Chat |
 | ------- | :-----------------: | :---------: | :-------: |
@@ -200,3 +278,11 @@ trafficking that it'd be impossible for users to use Atmos.
 
 
 [1]: https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30171-1/fulltext
+
+[2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3150158/
+
+[3]: https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/
+
+[4]: https://www.zdnet.com/article/salesforce-beats-q4-estimates-slack-adds-record-number-of-paid-customers/
+
+[5]: https://faq.whatsapp.com/android/changing-wallpaper/?lang=en
