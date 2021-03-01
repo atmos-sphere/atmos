@@ -36,7 +36,7 @@ COVID 19 pandemic, but during regular times as well by providing users with
 an option to connect and interact with other humans, preventing more people
 from being deprived of their social needs by a virtual form of human
 interaction and by doing so elevate moods and potentially distract users from
-negative emotions.
+ssnegative emotions.
 
 ## Hypothesis
 
@@ -158,7 +158,8 @@ after the activity, with the highest effect in group G.
 One of the primary features of Atmos is that it is supposed to be a location to
 chill and play music. An obvious risk that will arise with this is that if users
 can choose what songs they would like in their sphere, they might choose
-copyrighted music and backgrounds. This isn't necessarily bad since spheres
+copyrighted music and backgrounds if they are to choose external music which are
+not featured on the spotify platform. This isn't necessarily bad since spheres
 aren't monetized, but corporations will still want money for letting people
 listen to their music or use their content as backgrounds. There will need to be
 ads added somewhere for when copyrighted songs/backgrounds play to appease to
