@@ -169,9 +169,9 @@ movies.
 
 ### Risk 2: Explicit Content
 
-Since this is the internet, people will use whatever site or application they
-can find to be degenerates. As a result, there will be spheres created for
-content not suitable of children (or for anyone in some cases). Atmos will need
+There is a risk that malicious users may pose a threat which can ruin the experience
+for other users through inappropriate content. An example of this maybe be if
+spheres with content not suitable of children are created. Atmos will need
 clear rules in the terms and conditions stating that either the site cannot be
 used for this 18+ content or if explicit content is allowed, then there will
 need to be rules on what is acceptable and the restrictions required to ensure
