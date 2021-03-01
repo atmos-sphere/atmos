@@ -68,7 +68,8 @@ imperative in improving mental health for its users in not just during the
 COVID 19 pandemic, but during regular times as well by providing users with
 an option to connect and interact with other humans, preventing more people
 from being deprived of their social needs by a virtual form of human
-interaction.
+interaction and by doing so elevate moods and potentially distract users from
+ssnegative emotions.
 
 ## Hypothesis
 
@@ -216,13 +217,13 @@ The 7 groups will have the following activities they will be a part of:
 
 |         | Animated Background | Chill Beats | Live Chat |
 | ------- | :-----------------: | :---------: | :-------: |
-| Group 1 | X                   |             |           |
-| Group 2 |                     | X           |           |
-| Group 3 |                     |             | X         |
-| Group 4 | X                   | X           |           |
-| Group 5 |                     | X           | X         |
-| Group 6 | X                   |             | X         |
-| Group 7 | X                   | X           | X         |
+| Group 1 |          X          |             |           |
+| Group 2 |                     |      X      |           |
+| Group 3 |                     |             |     X     |
+| Group 4 |          X          |      X      |           |
+| Group 5 |                     |      X      |     X     |
+| Group 6 |          X          |             |     X     |
+| Group 7 |          X          |      X      |     X     |
 
 After the designated acitivity of 30 minute, the moods or _happiness levels_ of
 the 70 participants will be evaluated. If our hypothesis is correct, there
@@ -236,7 +237,8 @@ after the activity, with the highest effect in group G.
 One of the primary features of Atmos is that it is supposed to be a location to
 chill and play music. An obvious risk that will arise with this is that if users
 can choose what songs they would like in their sphere, they might choose
-copyrighted music and backgrounds. This isn't necessarily bad since spheres
+copyrighted music and backgrounds if they are to choose external music which are
+not featured on the spotify platform. This isn't necessarily bad since spheres
 aren't monetized, but corporations will still want money for letting people
 listen to their music or use their content as backgrounds. There will need to be
 ads added somewhere for when copyrighted songs/backgrounds play to appease to
@@ -246,9 +248,9 @@ movies.
 
 ### Risk 2: Explicit Content
 
-Since this is the internet, people will use whatever site or application they
-can find to be degenerates. As a result, there will be spheres created for
-content not suitable of children (or for anyone in some cases). Atmos will need
+There is a risk that malicious users may pose a threat which can ruin the experience
+for other users through inappropriate content. An example of this maybe be if
+spheres with content not suitable of children are created. Atmos will need
 clear rules in the terms and conditions stating that either the site cannot be
 used for this 18+ content or if explicit content is allowed, then there will
 need to be rules on what is acceptable and the restrictions required to ensure
@@ -275,7 +277,6 @@ There might be a possibility that someone might want to take down the Atmos
 servers by causing DDoS attacks. This can be devastating and will need to be
 handled as soon as possible when it happens since it will cause enough network
 trafficking that it'd be impossible for users to use Atmos.
-
 
 [1]: https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30171-1/fulltext
 
