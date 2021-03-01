@@ -1,3 +1,4 @@
+<!-- Headline Logo -->
 <p align="center">
   <a href="https://atmos-sphere.app/">
     <img src="../assets/2000w/atmos-full-name2000px.png"
@@ -8,7 +9,6 @@
 
 <!-- Tagline: a little explanation about the Godzilla app -->
 <p align="center">
-    <!-- <em>Godzilla ERP, high performance, easy to learn, open source Enterprise Resource Management system</em> -->
     <em>ATMOS Sphere: fun, atmospheric, easy to use, open source chat and hang out platform</em>
 </p>
 
@@ -36,6 +36,10 @@ COVID 19 pandemic, but during regular times as well by providing users with
 an option to connect and interact with other humans, preventing more people
 from being deprived of their social needs by a virtual form of human
 interaction.
+
+## Hypothesis
+
+asd
 
 ## Project Description
 
@@ -87,48 +91,53 @@ public to join and view live news being reported), podcasts, or live
 performances and concerts, providing the application a secondary function
 similar to that of a social media platform.
 
-## Biggest Risks
+## System Design
 
-### Risk 1: Copyright Strikes
+The ATMOS architecture is composed of two parts:
 
-One of the primary features of Atmos is that it is supposed to be a location to chill and play music. An obvious risk that will arise with this is that if users can choose what songs they would like in their sphere, they might choose copyrighted music and backgrounds. This isn't necessarily bad since spheres aren't monetized, but corporations will still want money for letting people listen to their music or use their content as backgrounds. There will need to be ads added somewhere for when copyrighted songs/backgrounds play to appease to the big corporations. This might be harder to handle for when video chat is implemented since that will add more legality issues when people start streaming movies.
+1. Core API
+2. Client Apps
 
-### Risk 2: Explicit Content
+The Core API of ATMOS encompasses all the web services for the ATMOS
+organization and all the publicly exposed APIs, including the RESTful, GraphQL,
+and WebSockets APIs exposed by the core ATMOS services.
 
-Since this is the internet, people will use whatever site or application they can find to be degenerates. As a result, there will be spheres created for content not suitable of children (or for anyone in some cases). Atmos will need clear rules in the terms and conditions stating that either the site cannot be used for this 18+ content or if explicit content is allowed, then there will need to be rules on what is acceptable and the restrictions required to ensure users under the age of 18 do not see this explicit content. Regardless of which of the 2 rules are chosen, extreme explicit content like real life blood, gore, and death, as well as illegal pornography like child porn will be banned and handled with harsher consequences.
+The second part of the ATMOS system are the client apps. The offical ATMOS
+client will be a JavaScript desktop and browser client application, written
+using the React framework along with the Material-UI library.
 
-### Risk 3: Distribution of Illegal Content
 
-Connecting with the past 2 risks listen above, other illegal content can cause risks to Atmos. This includes:
-
-- Distribution of pirated games, movies, and other medias or the use of pirated media on any sphere.
-- Distribution of content that is illegal according to Canadian and International Laws or the use of this content on any sphere.
-- Distribution of illegal hacking software such as trojans, malware, or other viruses that are cybercrimes.
-
-### Risk 4: Distributed Denial of Service (DDoS) Attacks
-
-There might be a possibility that someone might want to take down the Atmos servers by causing DDoS attacks. This can be devastating and will need to be handled as soon as possible when it happens since it will cause enough network trafficking that it'd be impossible for users to use Atmos.
 
 ## Study Design
 
-As per the hypothesis, the idea is that the music, calm background and a platform for socializing will positively affect a user's mental health. To test whether such activities in fact have a discernible impact on mental health, we shall conduct a study involving 70 participants.
+As per the hypothesis, the idea is that the music, calm background and a
+platform for socializing will positively affect a user's mental health. To test
+whether such activities in fact have a discernible impact on mental health, we
+shall conduct a study involving 70 participants.
 
-The 70 participants will be split in 7 groups of 10 participants each. The groups will have each be subjected to a different form of activity, and its impact will be evaluated based on the users' evolution of mood through and at the end of the activity.
+The 70 participants will be split in 7 groups of 10 participants each. The
+groups will have each be subjected to a different form of activity, and its
+impact will be evaluated based on the users' evolution of mood through and at
+the end of the activity.
 
-At the beginning of the study, all participants will be given a questionnaire in order to determine their mental state, and each given a _happiness level_ based on their results.
+At the beginning of the study, all participants will be given a questionnaire in
+order to determine their mental state, and each given a _happiness level_ based
+on their results.
 
 The 7 groups will have the following activities they will be a part of:
-
+<!--
 - **Group A:** View only the animated background.
 - **Group B:** Listen only the _chill beats_ or curated playlist.
 - **Group C:** Participate only in the chat along with other users in the group.
 - **Group D:** Listen to music, as well as view the animated background.
-- **Group E:** View only the animated background, as well as participate in the chat.
+- **Group E:** View only the animated background, as well as participate in the
+  chat.
 - **Group F:** Listen to the music, and participate in the chat.
-- **Group G:** Listen to the music, participate in the chat as well as view the animated background.
+- **Group G:** Listen to the music, participate in the chat as well as view the
+  animated background. -->
 
 |         | Animated Background | Chill Beats | Live Chat |
-| ------- | ------------------- | ----------- | --------- |
+| ------- | :-----------------: | :---------: | :-------: |
 | Group 1 | X                   |             |           |
 | Group 2 |                     | X           |           |
 | Group 3 |                     |             | X         |
@@ -137,6 +146,57 @@ The 7 groups will have the following activities they will be a part of:
 | Group 6 | X                   |             | X         |
 | Group 7 | X                   | X           | X         |
 
-After the designated acitivity of 30 minute, the moods or _happiness levels_ of the 70 participants will be evaluated. If our hypothesis is correct, there should be a statistically significant enhancement of the participants' moods after the activity, with the highest effect in group G.
+After the designated acitivity of 30 minute, the moods or _happiness levels_ of
+the 70 participants will be evaluated. If our hypothesis is correct, there
+should be a statistically significant enhancement of the participants' moods
+after the activity, with the highest effect in group G.
+
+## Biggest Risks
+
+### Risk 1: Copyright Strikes
+
+One of the primary features of Atmos is that it is supposed to be a location to
+chill and play music. An obvious risk that will arise with this is that if users
+can choose what songs they would like in their sphere, they might choose
+copyrighted music and backgrounds. This isn't necessarily bad since spheres
+aren't monetized, but corporations will still want money for letting people
+listen to their music or use their content as backgrounds. There will need to be
+ads added somewhere for when copyrighted songs/backgrounds play to appease to
+the big corporations. This might be harder to handle for when video chat is
+implemented since that will add more legality issues when people start streaming
+movies.
+
+### Risk 2: Explicit Content
+
+Since this is the internet, people will use whatever site or application they
+can find to be degenerates. As a result, there will be spheres created for
+content not suitable of children (or for anyone in some cases). Atmos will need
+clear rules in the terms and conditions stating that either the site cannot be
+used for this 18+ content or if explicit content is allowed, then there will
+need to be rules on what is acceptable and the restrictions required to ensure
+users under the age of 18 do not see this explicit content. Regardless of which
+of the 2 rules are chosen, extreme explicit content like real life blood, gore,
+and death, as well as illegal pornography like child porn will be banned and
+handled with harsher consequences.
+
+### Risk 3: Distribution of Illegal Content
+
+Connecting with the past 2 risks listen above, other illegal content can cause
+risks to Atmos. This includes:
+
+- Distribution of pirated games, movies, and other medias or the use of pirated
+  media on any sphere.
+- Distribution of content that is illegal according to Canadian and
+  International Laws or the use of this content on any sphere.
+- Distribution of illegal hacking software such as trojans, malware, or other
+  viruses that are cybercrimes.
+
+### Risk 4: Distributed Denial of Service (DDoS) Attacks
+
+There might be a possibility that someone might want to take down the Atmos
+servers by causing DDoS attacks. This can be devastating and will need to be
+handled as soon as possible when it happens since it will cause enough network
+trafficking that it'd be impossible for users to use Atmos.
+
 
 [1]: https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30171-1/fulltext
