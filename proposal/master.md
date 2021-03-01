@@ -35,7 +35,8 @@ imperative in improving mental health for its users in not just during the
 COVID 19 pandemic, but during regular times as well by providing users with
 an option to connect and interact with other humans, preventing more people
 from being deprived of their social needs by a virtual form of human
-interaction.
+interaction and by doing so elevate moods and potentially distract users from
+negative emotions.
 
 ## Hypothesis
 
@@ -106,8 +107,6 @@ The second part of the ATMOS system are the client apps. The offical ATMOS
 client will be a JavaScript desktop and browser client application, written
 using the React framework along with the Material-UI library.
 
-
-
 ## Study Design
 
 As per the hypothesis, the idea is that the music, calm background and a
@@ -125,6 +124,7 @@ order to determine their mental state, and each given a _happiness level_ based
 on their results.
 
 The 7 groups will have the following activities they will be a part of:
+
 <!--
 - **Group A:** View only the animated background.
 - **Group B:** Listen only the _chill beats_ or curated playlist.
@@ -138,13 +138,13 @@ The 7 groups will have the following activities they will be a part of:
 
 |         | Animated Background | Chill Beats | Live Chat |
 | ------- | :-----------------: | :---------: | :-------: |
-| Group 1 | X                   |             |           |
-| Group 2 |                     | X           |           |
-| Group 3 |                     |             | X         |
-| Group 4 | X                   | X           |           |
-| Group 5 |                     | X           | X         |
-| Group 6 | X                   |             | X         |
-| Group 7 | X                   | X           | X         |
+| Group 1 |          X          |             |           |
+| Group 2 |                     |      X      |           |
+| Group 3 |                     |             |     X     |
+| Group 4 |          X          |      X      |           |
+| Group 5 |                     |      X      |     X     |
+| Group 6 |          X          |             |     X     |
+| Group 7 |          X          |      X      |     X     |
 
 After the designated acitivity of 30 minute, the moods or _happiness levels_ of
 the 70 participants will be evaluated. If our hypothesis is correct, there
@@ -197,6 +197,5 @@ There might be a possibility that someone might want to take down the Atmos
 servers by causing DDoS attacks. This can be devastating and will need to be
 handled as soon as possible when it happens since it will cause enough network
 trafficking that it'd be impossible for users to use Atmos.
-
 
 [1]: https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30171-1/fulltext
