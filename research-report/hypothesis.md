@@ -1,21 +1,7 @@
 ## Hypothesis
 
-The goal of Project Atmos is to help individuals counter feelings of loneliness
-and possibly even improve or prevent depression. It can be difficult to directly
-track such feelings, especially in the short period of this study, therefore we
-measure possible improvements in feelings of loneliness and depression by
-measuring any positive changes in mood after using Atmos-Sphere. The idea is
-that the chill music and background animations will have a calming effect on the
-users, and improve their general mood based on calming visuals and sound
-frequencies. Similarly, the live chat will provide social support for
-individuals lacking close contacts in real life.
-
-We hypothesize using Atmosphere would result in an improvement of mood, and such
-an effect would be cumulative. The improvement in mood can be measured via
-questionnaires, and the results extrapolated to mean improvement in loneliness
-and depression systems.
-
-
--------------------------------------------------------------------------------
-
-### EDITING NOTES
+It is hypothesized that using Atmosphere would cause improvements in the feelings
+of loneliness. It is believed that the music and background animations would have
+a calming effect on the users, and the online chat would provide an avenue for users
+to socially interact in a relaxed environment reducing their feelings of social
+isolation.
