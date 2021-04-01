@@ -27,6 +27,15 @@ scenario where one is physically isolated and lacks social interaction. By doing
 so, gradually improve mental health amongst users and bring about more positive
 emotions stemming from being able to communicate with friends and family.
 
+## Hypothesis
+
+It is hypothesized that using Atmosphere would cause improvements in the feelings
+of loneliness experienced in isolated situations. It is believed that the music 
+and background animations would have a calming effect on the users, and the 
+online chat would provide an avenue for users to socially interact in a relaxed 
+environment reducing their feelings of social isolation by elevating their mood.
+
+
 ## Biggest Risks
 
 ### Risk 1: Copyright Strikes
