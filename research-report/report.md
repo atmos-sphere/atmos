@@ -61,7 +61,7 @@ administrative privileges is next. Lastly will be to connect everything to the
 backend database so the core functionalities are all functional and can be
 tested.
 
-# Background Research
+## Background Research
 
 Throughout the initiation phase the team’s motivation of building the project was engaged towards sound arguments. Atmosphere is a hedonistic tool that sprung up based on facts from peer reviewed journals and educational thesis answering the fundamental question on how the application enhances user’s mental and emotional health on daily basis. The answer spans through multiple dimensions ranging from music, communication, socialization, and environment. These aspects are the essence of the conducted research.
 
