@@ -238,19 +238,21 @@ servers and may be conducted by malicous users who have the intent of disrupting
 application services. Thus appropriate security protocols and malware defense
 software should be deployed in order to prevent such attacks from succeeding.
 
+<!-- <div style="page-break-after: always;"></div> -->
+
 ## References
 
-#### \[1\] Swanson, A. L. (2020). Music therapy in schools: Stimulating the mind and body to create positive change. In C. Maykel & M. A. Bray (Eds.), Applying psychology in the schools. Promoting mind–body health in schools: Interventions for mental health professionals (p. 233–244). American Psychological Association. <https://doi-org.lib-ezproxy.concordia.ca/10.1037/0000157-016>
+**\[1\]** Swanson, A. L. (2020). Music therapy in schools: Stimulating the mind and body to create positive change. In C. Maykel & M. A. Bray (Eds.), Applying psychology in the schools. Promoting mind–body health in schools: Interventions for mental health professionals (p. 233–244). American Psychological Association. <https://doi-org.lib-ezproxy.concordia.ca/10.1037/0000157-016>
 
-#### \[2\] Naslund, J.A., Bondre, A., Torous, J. et al. Social Media and Mental Health: Benefits, Risks, and Opportunities for Research and Practice. J. technol. behav. sci. 5, 245–257 (2020). <https://doi.org/10.1007/s41347-020-00134-x>
+**\[2\]** Naslund, J.A., Bondre, A., Torous, J. et al. Social Media and Mental Health: Benefits, Risks, and Opportunities for Research and Practice. J. technol. behav. sci. 5, 245–257 (2020). <https://doi.org/10.1007/s41347-020-00134-x>
 
-#### \[3\] Helbich M. Mental Health and Environmental Exposures: An Editorial. Int J Environ Res Public Health. 2018;15(10):2207. Published 2018 Oct 10. doi:10.3390/ijerph15102207
+**\[3\]** Helbich M. Mental Health and Environmental Exposures: An Editorial. Int J Environ Res Public Health. 2018;15(10):2207. Published 2018 Oct 10. doi:10.3390/ijerph15102207
 
-#### \[4\]: https://patient.info/doctor/patient-health-questionnaire-phq-9
+**\[4\]**: <https://patient.info/doctor/patient-health-questionnaire-phq-9>
 
-#### \[5\]: https://www.corc.uk.net/outcome-experience-measures/mood-and-feelings-questionnaire/
+**\[5\]**: <https://www.corc.uk.net/outcome-experience-measures/mood-and-feelings-questionnaire/>
 
-#### \[6\]: https://patient.info/doctor/generalised-anxiety-disorder-assessment-gad-7
+**\[6\]**: <https://patient.info/doctor/generalised-anxiety-disorder-assessment-gad-7>
 
 [1]: https://doi-org.lib-ezproxy.concordia.ca/10.1037/0000157-016
 [2]: https://doi.org/10.1007/s41347-020-00134-x
