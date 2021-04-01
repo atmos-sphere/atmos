@@ -84,47 +84,32 @@ generated content by users, carrying little context and thus making the feature
 seem unappealing to users. Atmos-Sphere aims to correct that flaw by providing a
 more unique experience for each user based on their mood and motivation.
 
-One of the primary goals of Atmos is to provide a positive mode of online
-communication that increases the well-being of its users. As stated by Torous:
-"online communication and the ability to connect with others may be an important
-feature of social media, especially for individuals living with highly
-stigmatizing health conditions such as serious mental disorders."
-<sup>[[2]]</sup>
+Another aim of Atmos is to provide a positive mode of online communication that
+increases the well-being of its users. As stated by Torous: "online
+communication and the ability to connect with others may be an important feature
+of social media, especially for individuals living with highly stigmatizing
+health conditions such as serious mental disorders." <sup>[[2]]</sup> Many
+social media platforms, such as Discord, provide text and audio chat features
+where users can connect with one another. The downside of these features is that
+they are limited when you are trying to create special memories with your
+friends. You are able to stream videos, but the level of social interaction is
+minimal. Atmos-Sphere provides the possibility to stream movies and videos while
+interacting with your friends in a relaxed, atmospheric environment. The level
+of interactivity between you and your friends is increased, making it easier to
+forge strong bonds and create positive memories.
 
-Many social media platforms, such as Discord, provide text and audio chat
-features where users can connect with one another.
-
-The downside of these features is that
-
-his rises communication intimacy and
-forges a strong virtual peer-to-peer bond.
-
-
-The downside of these platforms is that it cannot be personalized in terms of
-sharing special moments therefore, Atmos-Sphere provides the possibility to
-stream movies and videos while chatting, this rises communication intimacy and
-forges a strong virtual peer-to-peer bond.
-
-Based on the research conducted, the environment can affect users in one way or
-the other, people’s mental
-health.<sup>\[[3](<#[3]-Helbich-M.-Mental-Health-and-Environmental-Exposures:-An-Editorial.-Int-J-Environ-Res-Public-Health.-2018;15(10):2207.-Published-2018-Oct-10.-doi:10.3390/ijerph15102207>)\]</sup>
-Environment is a major trigger of emotions therefore Atmos-Sphere gave it a
-special attention by creating different dynamic themes depending on user’s mood,
-the selected theme will induce a vibration tone that brings an emotional relief
-to end users. Discord have tried to address this option however it provided yet
-a static version that can only be customized by the user and the options are
-limited, therefore, the lack of original interactivity made users experience
-less enjoyable. Atmos-Sphere brings a new colorful RGB touch to the atmospheric
-ambiance by implementing a smart way of displaying backgrounds based on current
-moods and musical playlist.
-
-
-
-----------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------
-
+Based on the research conducted, environment is a powerful factor that can
+affect users and their mental health, either positively or
+negatively.<sup>\[[3](<#[3]-Helbich-M.-Mental-Health-and-Environmental-Exposures:-An-Editorial.-Int-J-Environ-Res-Public-Health.-2018;15(10):2207.-Published-2018-Oct-10.-doi:10.3390/ijerph15102207>)\]</sup>
+Environment is a major trigger of emotions, thus special attention is paid
+environmental factors in the Atmos app. By creating dynamic themes depending on
+user’s mood, the selected theme will create a tone that brings an emotional
+relief to end users. Discord has tried to address this option however it
+provided yet a static version that can only be customized by the user and the
+options are limited, therefore, the lack of original interactivity made users
+experience less enjoyable. Atmos-Sphere brings a new colorful RGB touch to the
+atmospheric ambiance by implementing a smart way of displaying backgrounds based
+on current moods and musical playlist.
 
 ## Evaluation
 
