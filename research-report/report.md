@@ -33,8 +33,7 @@ isolation and elevating their mood.
 
 ## Methods
 
-**_ATMOS’ core focus is to create a social and relaxing environment for
-users_**
+**_ATMOS’ core focus is to create a social and relaxing environment for users_**
 
 The project will focus on 3 main aspects: Music, Environment, and Users. The
 main functionality of the system is that it should be a hangout for people to
@@ -57,6 +56,33 @@ is set for a basic user’s sphere, then account creation, management, and
 administrative privileges is next. Lastly will be to connect everything to the
 backend database so the core functionalities are all functional and can be
 tested.
+
+## Theoretical contribution
+
+We want to address this issue because people around the world are forced to
+isolate themselves which could lead to negative effects such as depression, bad
+sleep quality, increase chances of premature death, etc.<sup>[[7]]</sup> The opportunity is
+to make a virtual environment people come to relax and interact with others.
+According to Graeme B.Wilson, music (or background music) can affect social
+behavior such as interactions among people.<sup>[[8]]</sup> People feel more comfortable
+having interactions with each other when they are put in an environment that
+they are comfortable in. Having a good background noise allows better
+synchronizations between conversations mainly because it boosts their
+self-confidence. Environment plays a big role when it comes to emotions, people
+tend to more relaxed, be less shy and more expressive when they are placed in a
+desired environment. Most individual tend to relieve stress when listening to
+music.<sup>[[9]]</sup> One of the major drawback of the existing applications is that they
+don’t incorporate all the features combined. The goal is to build a virtual
+environment that allows people to enjoy chill music and different type of
+animated background as well as interact with others.
+
+In terms of design, the visual aspect is going to look a little similar to the
+Discord where all the spheres are visible on the left-hand side. Once a sphere
+is selected, the user is propelled into a new environment. This new environment
+includes a dynamic background animation as well as a background music from a
+preselected theme. The UI is kept minimalist on purpose,so the user enjoy the
+ambiance and a chat option is available if the user needs to interact. So the
+background music and animation are the main component of our UI design.
 
 ## Background Research
 
@@ -257,8 +283,24 @@ software should be deployed in order to prevent such attacks from succeeding.
 
 **\[6\]**: <https://patient.info/doctor/generalised-anxiety-disorder-assessment-gad-7>
 
+**\[7\]** Novotney, A. (2019, May). The risks of social isolation. Retrieved
+March 31, 2021, from https://www.apa.org/monitor/2019/05/ce-corner-isolation
+
+**\[8\]** Wilson, G., &amp; MacDonald, R. (2019, June 28). The social impact of
+musical engagement for young adults with learning difficulties: A
+qualitative study. Retrieved April 01, 2021,from
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6610152/
+
+**\[9\]** Thoma, M., La Marca, R., Brönnimann, R., Finkel, L., Ehlert, U., &amp;
+Nater, U. (2013, August 5). The effect of music on the human stress response.
+Retrieved April 01, 2021, from
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3734071/
+
 [1]: https://doi-org.lib-ezproxy.concordia.ca/10.1037/0000157-016
 [2]: https://doi.org/10.1007/s41347-020-00134-x
 [4]: https://patient.info/doctor/patient-health-questionnaire-phq-9
 [5]: https://www.corc.uk.net/outcome-experience-measures/mood-and-feelings-questionnaire/
 [6]: https://patient.info/doctor/generalised-anxiety-disorder-assessment-gad-7
+[7]: https://www.apa.org/monitor/2019/05/ce-corner-isolation
+[8]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6610152/
+[9]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3734071/
