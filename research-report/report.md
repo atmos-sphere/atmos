@@ -83,19 +83,28 @@ often out of topic. User’s experience was not the best as not everyone can get
 hooked to it. Atmos-Sphere takes advantage of music therapy by providing a
 unique experience for each user based on their mood and motivation.
 
-Communication is pivotal to solve all types of challenges therefore, it
-elucidates in various forms. Online chatting brings an implicit therapeutic
-well-being. As stated by Torous: “online communication and the ability to
-connect with others may be an important feature of social media, especially for
-individuals living with highly stigmatizing health conditions such as serious
-mental disorders”.<sup>[[2]]</sup> Discord provides an audio chat feature where
-users connect to discuss with each other on their discretion. The downside of
-discord is that it cannot be personalized in terms of sharing special moments
-therefore, Atmos-Sphere provides the possibility to stream movies and videos
-while chatting, this rises communication intimacy and forges a strong virtual
-peer-to-peer bond.
+One of the primary goals of Atmos is to provide a positive mode of online
+communication that increases the well-being of its users. As stated by Torous:
+"online communication and the ability to connect with others may be an important
+feature of social media, especially for individuals living with highly
+stigmatizing health conditions such as serious mental disorders."
+<sup>[[2]]</sup>
 
-Based on the research conducted the environment can affect users in one way or
+Many social media platforms, such as Discord, provide text and audio chat
+features where users can connect with one another.
+
+The downside of these features is that
+
+his rises communication intimacy and
+forges a strong virtual peer-to-peer bond.
+
+
+The downside of these platforms is that it cannot be personalized in terms of
+sharing special moments therefore, Atmos-Sphere provides the possibility to
+stream movies and videos while chatting, this rises communication intimacy and
+forges a strong virtual peer-to-peer bond.
+
+Based on the research conducted, the environment can affect users in one way or
 the other, people’s mental
 health.<sup>\[[3](<#[3]-Helbich-M.-Mental-Health-and-Environmental-Exposures:-An-Editorial.-Int-J-Environ-Res-Public-Health.-2018;15(10):2207.-Published-2018-Oct-10.-doi:10.3390/ijerph15102207>)\]</sup>
 Environment is a major trigger of emotions therefore Atmos-Sphere gave it a
@@ -107,6 +116,14 @@ limited, therefore, the lack of original interactivity made users experience
 less enjoyable. Atmos-Sphere brings a new colorful RGB touch to the atmospheric
 ambiance by implementing a smart way of displaying backgrounds based on current
 moods and musical playlist.
+
+
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
 
 ## Evaluation
 
