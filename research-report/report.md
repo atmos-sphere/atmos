@@ -60,28 +60,29 @@ tested.
 
 ## Background Research
 
-Throughout the initiation phase the team’s motivation of building the project
-was engaged towards sound arguments. Atmos-Sphere is a hedonistic tool that
-sprung up based on facts from peer reviewed journals and educational thesis
-answering the fundamental question on how the application enhances user’s mental
-and emotional health on daily basis. The answer spans through multiple
-dimensions ranging from music, communication, socialization, and environment.
-These aspects are the essence of the conducted research.
+Research efforts were carried out by team members using common group
+discussion methods (brainstorming/information sharing etc.). The Atmos team
+intends to build the application based on facts from study based soruces such as
+peer reviewed journals and educational thesis. Through this,the effects towards
+enhancing a user’s mental and emotional health can be elicited based on prime
+application aspects such as music, communication, socialization, and
+environment.
 
-Music therapists work in an interdisciplinary team to create a positive dynamism
-and impact on human brains based on musical tones and frequencies to address
-mental health challenges and enhances well-being. Atmos-Sphere was influenced
-based on therapist’s categorization of user-preferred music styles where melody
-creates a framework of information to be learned and supports memory whereas
-harmony is used for verbalization purposes and rhythm is to increase body’s
-vibrations and cue user’s speech and movements, thus, music functions as a
-mnemonic device.<sup>[[1]]</sup> Youtube live have tried to take advantage of
-music therapy to make it an ultimate feature for its users to destress and
-relax, however, the flaw was the lack of automation and the playlist was
-standard and infinite with mixed random music that is not personalized and quit
-often out of topic. User’s experience was not the best as not everyone can get
-hooked to it. Atmos-Sphere takes advantage of music therapy by providing a
-unique experience for each user based on their mood and motivation.
+One of the study goals of project Atmos is to investigate the effect of music on
+a user's mood. Along these lines, some of the background research lies in the
+field of musical therapy. Musical therapy provides a unique approach in
+combating mental health issues by creating a positive impact on human brains
+based on musical tones and frequencies. Three components in music: melody,
+harmony and rhythm. Melody creates a framework of information to be learned and
+supports memory. On the other hand, harmony is used for verbalization purposes.
+Finally, rhythm increases the body’s vibrations and cues user’s speech and
+movements. Thus, music functions as a mnemonic device and a mood
+stabilizer.<sup>[[1]]</sup> In the past, there have been attempts on Youtube
+live to feature music therapy as a method of relaxation for Youtube users,
+however, generated playlists were overly rigid and often seen as randomly
+generated content by users, carrying little context and thus making the feature
+seem unappealing to users. Atmos-Sphere aims to correct that flaw by providing a
+more unique experience for each user based on their mood and motivation.
 
 One of the primary goals of Atmos is to provide a positive mode of online
 communication that increases the well-being of its users. As stated by Torous:
