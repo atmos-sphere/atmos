@@ -61,6 +61,24 @@ administrative privileges is next. Lastly will be to connect everything to the
 backend database so the core functionalities are all functional and can be
 tested.
 
+# Background Research
+
+Throughout the initiation phase the team’s motivation of building the project was engaged towards sound arguments. Atmosphere is a hedonistic tool that sprung up based on facts from peer reviewed journals and educational thesis answering the fundamental question on how the application enhances user’s mental and emotional health on daily basis. The answer spans through multiple dimensions ranging from music, communication, socialization, and environment. These aspects are the essence of the conducted research.
+
+Music therapists work in an interdisciplinary team to create a positive dynamism and impact on human brains based on musical tones and frequencies to address mental health challenges and enhances well-being. Atmosphere was influenced based on therapist’s categorization of user-preferred music styles where melody creates a framework of information to be learned and supports memory whereas harmony is used for verbalization purposes and rhythm is to increase body’s vibrations and cue user’s speech and movements, thus, music functions as a mnemonic device [1]. Youtube live have tried to take advantage of music therapy to make it an ultimate feature for its users to destress and relax, however, the flaw was the lack of automation and the playlist was standard and infinite with mixed random music that is not personalized and quit often out of topic. User’s experience was not the best as not everyone can get hooked to it. Atmosphere takes advantage of music therapy by providing a unique experience for each user based on their mood and motivation.
+
+Communication is pivotal to solve all types of challenges therefore, it elucidates in various forms. Online chatting brings an implicit therapeutic well-being. As stated by Torous: “online communication and the ability to connect with others may be an important feature of social media, especially for individuals living with highly stigmatizing health conditions such as serious mental disorders” [2]. Discord provides an audio chat feature where users connect to discuss with each other on their discretion. The downside of discord is that it cannot be personalized in terms of sharing special moments therefore, Atmosphere provides the possibility to stream movies and videos while chatting, this rises communication intimacy and forges a strong virtual peer-to-peer bond.
+
+Based on the research conducted the environment can affect users in one way or the other, people’s mental health [3]. Environment is a major trigger of emotions therefore Atmosphere gave it a special attention by creating different dynamic themes depending on user’s mood, the selected theme will induce a vibration tone that brings an emotional relief to end users. Discord have tried to address this option however it provided yet a static version that can only be customized by the user and the options are limited, therefore, the lack of original interactivity made users experience less enjoyable. Atmosphere brings a new colorful RGB touch to the atmospheric ambiance by implementing a smart way of displaying backgrounds based on current moods and musical playlist. 
+
+
+
+#### [1] Swanson, A. L. (2020). Music therapy in schools: Stimulating the mind and body to create positive change. In C. Maykel & M. A. Bray (Eds.), Applying psychology in the schools. Promoting mind–body health in schools: Interventions for mental health professionals (p. 233–244). American Psychological Association. https://doi-org.lib-ezproxy.concordia.ca/10.1037/0000157-016
+
+#### [2] Naslund, J.A., Bondre, A., Torous, J. et al. Social Media and Mental Health: Benefits, Risks, and Opportunities for Research and Practice. J. technol. behav. sci. 5, 245–257 (2020). https://doi.org/10.1007/s41347-020-00134-x
+
+#### [3] Helbich M. Mental Health and Environmental Exposures: An Editorial. Int J Environ Res Public Health. 2018;15(10):2207. Published 2018 Oct 10. doi:10.3390/ijerph15102207
+
 ## Biggest Risks
 
 ### Risk 1: Copyright Strikes
