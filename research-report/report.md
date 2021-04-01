@@ -115,20 +115,20 @@ tested.
 
 We want to address this issue because people around the world are forced to
 isolate themselves which could lead to negative effects such as depression, bad
-sleep quality, increase chances of premature death, etc.<sup>[[7]]</sup> The opportunity is
-to make a virtual environment people come to relax and interact with others.
-According to Graeme B.Wilson, music (or background music) can affect social
-behavior such as interactions among people.<sup>[[8]]</sup> People feel more comfortable
-having interactions with each other when they are put in an environment that
-they are comfortable in. Having a good background noise allows better
-synchronizations between conversations mainly because it boosts their
-self-confidence. Environment plays a big role when it comes to emotions, people
-tend to more relaxed, be less shy and more expressive when they are placed in a
-desired environment. Most individual tend to relieve stress when listening to
-music.<sup>[[9]]</sup> One of the major drawback of the existing applications is that they
-don’t incorporate all the features combined. The goal is to build a virtual
-environment that allows people to enjoy chill music and different type of
-animated background as well as interact with others.
+sleep quality, increase chances of premature death, etc.<sup>[[7]]</sup> The
+opportunity is to make a virtual environment people come to relax and interact
+with others. According to Graeme B.Wilson, music (or background music) can
+affect social behavior such as interactions among people.<sup>[[8]]</sup> People
+feel more comfortable having interactions with each other when they are put in
+an environment that they are comfortable in. Having a good background noise
+allows better synchronizations between conversations mainly because it boosts
+their self-confidence. Environment plays a big role when it comes to emotions,
+people tend to more relaxed, be less shy and more expressive when they are
+placed in a desired environment. Most individual tend to relieve stress when
+listening to music.<sup>[[9]]</sup> One of the major drawback of the existing
+applications is that they don’t incorporate all the features combined. The goal
+is to build a virtual environment that allows people to enjoy chill music and
+different type of animated background as well as interact with others.
 
 In terms of design, the visual aspect is going to look a little similar to the
 Discord where all the spheres are visible on the left-hand side. Once a sphere
