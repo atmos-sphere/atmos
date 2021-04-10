@@ -4,14 +4,18 @@
   "private": true,
   "scripts": {
     "start": "npm run prod",
-    "build": "npm-run-all clean transpile && cp -r .ebextensions .elasticbeanstalk package.json build/",
-    "test": "jest",
+    "build": "npm-run-all clean transpile copy-eb-stuff build-client",
+    "test": "jest && cd client && yarn test",
     "watch:dev": "nodemon",
-    "dev": "NODE_ENV=development npm-run-all build server",
+    "client": "cd client && yarn start",
+    "dev": "concurrently --kill-others \"yarn watch:dev\" \"yarn client\"",
+    "dev-server": "NODE_ENV=development npm-run-all clean transpile server",
     "prod": "NODE_ENV=production npm-run-all build server",
     "server": "node ./build/bin/www.js",
     "transpile": "babel ./server --out-dir build",
-    "clean": "rimraf build"
+    "clean": "rimraf build",
+    "build-client": "cd client && yarn build && cp build/ ../build",
+    "copy-eb-stuff": "cp -r .ebextensions .elasticbeanstalk package.json build/"
   },
   "dependencies": {
     "@babel/cli": "^7.13.14",
@@ -26,6 +30,7 @@
     "rimraf": "^3.0.2"
   },
   "devDependencies": {
+    "concurrently": "^6.0.1",
     "jest": "^26.6.3"
   },
   "jest": {
@@ -37,7 +42,7 @@
     ]
   },
   "nodemonConfig": {
-    "exec": "yarn dev",
+    "exec": "yarn dev-server",
     "watch": [
       "server/*",
       "public/*"
